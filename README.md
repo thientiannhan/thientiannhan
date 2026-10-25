@@ -19,14 +19,17 @@ Focusing on **Enterprise Logistics Platforms**, **AI-Driven Automation**, and **
 
 ---
 
-### 📊 GitHub Stats
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=thientiannhan&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0d1117" alt="GitHub Stats" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=thientiannhan&layout=compact&theme=tokyonight&hide_border=true&bg_color=0d1117" alt="Top Languages" />
-</p>
+### 📊 Key Impact & Delivery Metrics
+
+| Metric | Scope & Impact |
+| :--- | :--- |
+| **500+ Active Users** | Triển khai và vận hành trên nền tảng eFMS / eTMS cho các doanh nghiệp Logistics |
+| **End-to-End Delivery** | Đảm nhiệm từ System Architecture, RESTful Open APIs đến On-site Deployment & Training |
+| **Workflow Automation** | Tối ưu hóa luồng vận hành logistics đa luồng và tích hợp với các hệ thống đối tác |
+| **Enterprise Standards** | Định chuẩn hóa kiến trúc dữ liệu tích hợp (DCSA container tracking, Open API specs) |
 
 ---
 
 ### 📫 Connect with Me
-- **LinkedIn:** [Your LinkedIn Profile](https://linkedin.com)
-- **Email:** your-email@domain.com
+- **LinkedIn:** https://www.linkedin.com/in/thien-tian-nhan/
+- **Email:** thientiannhan@gmail.com
